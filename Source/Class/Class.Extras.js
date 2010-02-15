@@ -10,7 +10,7 @@ license: MIT-style license.
 requires:
 - /Class
 
-provides: [Chain, Events, Options]
+provides: [Chain, Events, Options, Class.Extras]
 
 ...
 */
